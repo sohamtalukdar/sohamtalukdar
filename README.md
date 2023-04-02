@@ -6,7 +6,7 @@ My expertise includes natural language processing, computer vision, and deep lea
 
 Outside of machine learning, I am interested in researching in Neuromorphic Computing and Bioinformatics. These areas fascinate me because they offer unique opportunities to bridge the gap between artificial intelligence and biological systems.
 
-If you would like to collaborate on a project or discuss my work further, please don't hesitate to reach out to me via [LinkedIn](https://www.linkedin.com/in/soham-talukdar/) or through [email](sohamt09@gmail.com).
+If you would like to collaborate on a project or discuss my work further, please don't hesitate to reach out to me via [email](sohamt09@gmail.com).
 
 ___
 
