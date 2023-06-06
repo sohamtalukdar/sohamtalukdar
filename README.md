@@ -7,4 +7,3 @@ I am a Machine Learning Practitioner passionate about working in the field of bi
 
 ___
 ![GitHub Views](https://komarev.com/ghpvc/?username=sohamtalukdar)
-https://leetcode-stats-api.herokuapp.com/sohamtalukdar
