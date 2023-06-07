@@ -5,5 +5,4 @@ I am a Machine Learning Practitioner passionate about working in the field of bi
 
 :envelope: If you would like to collaborate on a project or discuss my work further, please don't hesitate to reach out to me via [email](sohamt09@gmail.com).
 
-___
-![GitHub Views](https://komarev.com/ghpvc/?username=sohamtalukdar)
+____
