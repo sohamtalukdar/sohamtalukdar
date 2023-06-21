@@ -8,4 +8,5 @@ I am a Machine Learning Practitioner passionate about working in the field of bi
 ____
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sohamtalukdar&count_private=true&show_icons=false&theme=default" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamtalukdar&theme=default&show_icons=true" />
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/sohamt09?label=Follow&style=social)](https://twitter.com/sohamt09)
