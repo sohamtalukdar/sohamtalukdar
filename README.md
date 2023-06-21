@@ -6,3 +6,5 @@ I am a Machine Learning Practitioner passionate about working in the field of bi
 :envelope: If you would like to collaborate on a project or discuss my work further, please don't hesitate to reach out to me via [email](sohamt09@gmail.com).
 
 ____
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sohamtalukdar&count_private=true&show_icons=false&theme=default" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamtalukdar&theme=default&show_icons=true" />
