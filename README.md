@@ -7,4 +7,4 @@ I am a Machine Learning Engineer working in the field of <b>computer vision</b> 
 
 ____
 
-[![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-blue)]([https://www.linkedin.com/in/soham-talukdar/])
+[![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/soham-talukdar/)
