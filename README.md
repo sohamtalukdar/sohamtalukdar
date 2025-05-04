@@ -1,10 +1,6 @@
 # Hi there, I'm Soham :wave:
 
-I am a Machine Learning Engineer working in the field of <b>computer vision</b> and leveraging it's potential to deliver solutions to clients.
-
-
-:envelope: If you would like to collaborate on a project or discuss my work further, please don't hesitate to reach out to me via [email](sohamt09@gmail.com).
-
+I like to tinker with neural networks and interested in distributed systems.
 ____
 
 [![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/soham-talukdar/)
